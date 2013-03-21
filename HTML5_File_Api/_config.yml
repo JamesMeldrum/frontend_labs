@@ -1,0 +1,4 @@
+auto: true
+server: true
+server_port: 8080
+url: labelwine.s3-website-us-east-1.amazonaws.com
